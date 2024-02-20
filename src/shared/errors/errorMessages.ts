@@ -1,0 +1,14 @@
+export const EMAIL_EXISTS = 'EMAIL_EXISTS';
+export const PHONE_EXISTS = 'PHONE_EXISTS';
+export const WRONG_USER = 'WRONG_USER';
+export const WRONG_PASSWORD = 'WRONG_PASSWORD';
+export const WRONG_LINK = 'WRONG_LINK';
+export const LOADING_FILE_ERROR = 'LOADING_FILE_ERROR';
+export const DELETE_FILE_ERROR = 'DELETE_FILE_ERROR';
+export const UPDATE_ERROR = 'UPDATE_ERROR';
+export const DELETE_ERROR = 'DELETE_ERROR';
+export const WRONG_FILE = 'WRONG_FILE';
+export const WRONG_PRODUCT = 'WRONG_PRODUCT';
+export const WRONG_AMOUNT_PRODUCTS = 'WRONG_AMOUNT_PRODUCTS';
+export const WRONG_LIMIT = 'WRONG_LIMIT';
+export const WRONG_PAGE = 'WRONG_PAGE';
